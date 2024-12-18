@@ -1,1 +1,1 @@
-\!\[Test hello\]\(spring-images-min.jpg\)
+![Test hello](spring-images-min.jpg)
